@@ -1,9 +1,9 @@
 # rampaje-project
 crypto currency made based on community, long term
 
-==========================
+======================
 Welcome Rampage Project
-==========================
+======================
 
 ============
 =======================
@@ -12,14 +12,23 @@ Currency Specifications
 ============
 
 Algorithm:                Scrypt
+
 Type:                          PoW/PoS
+
 Coin name:               Rampage
+
 Coin abbreviation: AGE
+
 Address letter:        R
+
 RPC port:                  39210
+
 P2P port:                   39209
+
 Block reward:          312 coins
+
 Coin supply:            131040000 coins
+
 Premine amount:   13104000 coins
 
 PoS percentage:     100% per year
